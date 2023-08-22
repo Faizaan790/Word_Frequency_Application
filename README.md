@@ -1,7 +1,21 @@
 # Word_Frequency_Application
-Created an application that will read a text file (.txt) and:<br>
-a. Display the longest word (or words if there is a tie) in the file and how many times it
-occurs.<br>
-b. Display the most frequently used word (or words if there is a tie) in the file and how
-many times they occur.<br>
-c. Display the word or words in the file that occur exactly once.
+
+This application reads a text file (`.txt`) and provides the following functionalities:
+
+## Features
+
+1. Display the Longest Word(s)
+   - Displays the longest word(s) in the file and how many times it occurs.
+   
+2. Display the Most Frequent Word(s)
+   - Displays the most frequently used word(s) in the file and how many times they occur.
+   
+3. Display Words Occurring Once
+   - Displays the word(s) in the file that occur exactly once.
+
+## Usage
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/yourusername/your-repo.git
+
